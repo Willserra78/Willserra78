@@ -6,7 +6,7 @@ Case técnico de Analytics e Ciência de Dados desenvolvido no contexto Lighthou
 
 O projeto trabalha um cenário comercial com vendas, produtos e custos de importação, combinando análise exploratória, tratamento de dados, SQL, dados públicos de câmbio, previsão simples de demanda e recomendação de produtos.
 
-Este documento é uma versão pública e sanitizada para portfólio. O notebook original e bases de apoio devem ser publicados apenas se houver permissão para divulgação.
+Este estudo de caso apresenta uma visão pública do projeto, com foco nas competências técnicas demonstradas e sem exposição de dados restritos, enunciado integral ou detalhes sensíveis.
 
 ---
 

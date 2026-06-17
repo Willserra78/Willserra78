@@ -23,11 +23,11 @@ Meu foco é criar soluções aplicadas com **rastreabilidade, previsibilidade e 
 
 ## Projetos públicos em destaque
 
-### Lighthouse / Indicium 2026 — Analytics, SQL, previsão e recomendação
+### Lighthouse / Indicium 2026 — Analytics, SQL, Forecasting e Recomendação
 
-Desafio técnico de Analytics e Ciência de Dados com EDA, SQL, custos de importação, dados públicos de câmbio/PTAX, previsão de demanda e recomendação de produtos.
+Desafio técnico de Ciência de Dados aplicado a um cenário comercial, combinando análise exploratória, SQL, modelagem de custos, dados públicos de câmbio, previsão de demanda e recomendação de produtos para apoio à decisão.
 
-[Ver case sanitizado](./cases/lighthouse-indicium-2026.md)
+[Ver estudo de caso](./cases/lighthouse-indicium-2026.md)
 
 ### TelecomX — Análise Preditiva de Churn
 
