@@ -33,13 +33,19 @@ Desafio técnico de Ciência de Dados aplicado a um cenário comercial, combinan
 
 Projeto de Ciência de Dados voltado à previsão de evasão de clientes, com análise exploratória, preparação de dados, modelagem preditiva e recomendações para apoio à decisão.
 
+[Ver projeto](https://github.com/Willserra78/Telecom-X-Analise_Preditiva)
+
 ### Lighthouse / Indicium 2025 — Análise de Filmes e Machine Learning
 
 Desafio técnico de Ciência de Dados com análise exploratória, tratamento de dados, modelagem preditiva, visualização e relatório técnico.
 
+[Ver projeto](https://github.com/Willserra78/analise_de_filmes_ppProductions)
+
 ### FlightOnTime — Hackathon Colaborativo
 
 Projeto colaborativo desenvolvido em contexto de hackathon, combinando Ciência de Dados, backend, frontend e infraestrutura para previsão de atrasos em voos comerciais.
+
+[Ver projeto](https://github.com/Willserra78/flight-on-time-ds)
 
 ### CyberShield — Segurança Defensiva
 
@@ -49,15 +55,17 @@ Projeto acadêmico em equipe, desenvolvido no contexto da formação em Defesa C
 
 Projeto de IA aplicada em contexto educacional, com foco em interação assistida, apoio humano e uso responsável de modelos generativos.
 
+[Ver projeto](https://github.com/Willserra78/Empat-IA)
+
 **Importante:** IA como ferramenta de apoio, organização e orientação inicial, sempre com supervisão humana. Não substitui profissionais, não realiza diagnóstico e não toma decisões autônomas.
 
 ---
 
-## Projetos privados e cases sanitizados
+## Projetos privados e estudos de caso públicos
 
 Além dos projetos públicos, desenvolvo iniciativas privadas voltadas a sistemas aplicados, dados operacionais, rastreabilidade, previsibilidade e IA assistiva.
 
-Esses projetos são mantidos privados por envolverem diferenciais estratégicos e decisões de produto.
+Esses projetos são mantidos privados por envolverem diferenciais estratégicos, decisões de produto, regras de negócio e dados operacionais.
 
 ### NextiaERP
 
@@ -75,7 +83,7 @@ Módulo privado voltado à conciliação e rastreabilidade financeira, com foco 
 
 Prova de conceito privada com foco em estudo técnico, rastreabilidade e apoio a rotinas operacionais especializadas.
 
-> Os projetos privados são apresentados apenas em alto nível. Detalhes técnicos internos, regras de negócio, dados reais e estratégia comercial não são divulgados publicamente.
+> Os projetos privados são apresentados apenas em visão pública de alto nível. Detalhes técnicos internos, regras de negócio, dados reais e estratégia comercial não são divulgados publicamente.
 
 ---
 
