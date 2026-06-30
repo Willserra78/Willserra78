@@ -47,9 +47,18 @@ Projeto colaborativo desenvolvido em contexto de hackathon, combinando Ciência 
 
 [Ver projeto](https://github.com/Willserra78/flight-on-time-ds)
 
-### CyberShield — Segurança Defensiva
+## Projeto acadêmico em Defesa Cibernética
 
-Projeto acadêmico em equipe, desenvolvido no contexto da formação em Defesa Cibernética, com foco em conscientização, análise defensiva e boas práticas de proteção digital.
+### CyberShield — Segurança Defensiva / Blue Team
+
+Projeto acadêmico desenvolvido em squad no contexto da graduação em Defesa Cibernética, com foco em segurança defensiva, análise técnica, documentação e aplicação prática de conceitos de Blue Team.
+
+Atuei como integrante da squad, contribuindo para a organização técnica, análise, documentação e desenvolvimento da solução dentro do escopo acadêmico.
+
+O projeto é apresentado como experiência colaborativa em Defesa Cibernética, não como autoria individual integral.
+
+🔗 Organização: https://github.com/CyberShield-Squad  
+🔗 Repositório: https://github.com/CyberShield-Squad/StealerX
 
 ### Empat-IA — IA Assistiva com Cuidado Ético
 
